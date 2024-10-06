@@ -19,12 +19,14 @@
         <ul>
                 <li>Carry-on baggage for airplanes, refer to some regulations of airlines, the weight is not more than 7kg and the total dimensions of the suitcase are regulated not to exceed 115cm, specifically 56cm length x 36cm width x 23cm width.</li>
                 <li>For checked baggage, each airline has its own regulations, usually converted into weight and 20kg is a relatively safe weight for many airlines.</li>
-            </ul></br>
+            </ul>
+            <img src="img/size.jpg" alt="Choose the right luggage size" class="anh"></br>
         <h2>2. Consider your luggage weight</h2>
         <p>
         While it may seem like a paradox to have luggage that is both durable and lightweight, carry-on luggage should be lightweight so you don't have to lift a heavy, unwieldy suitcase into the overhead compartment.
         </p>
         <p>Checked baggage should also be light to avoid airlines charging extra for checked baggage. Polycarbonate hard shell material is a smart choice for lightweight luggage that is still strong and durable.</p>
+        <img src="img/kg.jpg" alt="Consider your luggage weight" class="anh"></br>
         <h2>3. Flexibility</h2>
         <p>
         Luggage offers a wide range of options for business travelers, with many offering convenience and versatility. Some rolling luggage has additional straps to attach laptops, and some carry-ons have piggyback pockets on the back to attach smaller bags to the handles of luggage carts. Travelers may also want to consider hands-free carrying options, such as bags with shoulder straps. Whether you choose rolling or hands-free travel, check to see if your luggage has plenty of front, side, and interior pockets for storage. A padded laptop compartment is especially important for business travelers to help keep laptops safe while on the go.
@@ -33,6 +35,7 @@
         <p>
         The locking and security system of your suitcase is also important. Modern suitcases are often equipped with security locks such as combination locks, TSA (Transportation Security Administration) locks, or fingerprint locks. This helps protect the contents of the suitcase from theft or unauthorized viewing. Make sure that the suitcase you choose has a locking and security system that suits your needs.
         </p>
+        <img src="img/lock.jpg" alt="Choose a suitcase with a secure lock to protect your belongings" class="anh"></br>
         <h2>5. Other factors</h2>
         <p>
         In addition to the above notes, choosing the right travel suitcase may also be related to color, warranty for the suitcase and type of handle.
