@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Travel - Bronx Luggage</title>
-    <link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="container">
@@ -51,9 +51,9 @@
         <h2>10. Document and Passport Holder</h2>
         <p>
         Ensures that your passport, plane tickets, and important documents are always within easy reach and well-organized.
-        </p>
-        <p><strong> These accessories not only help you maximize suitcase space but also ensure a safer, more comfortable, and organized trip. <strong></p>
-        <p><a href="index.php" class="btn">Back</a></p>
+        </p></br>
+        <h4> These accessories not only help you maximize suitcase space but also ensure a safer, more comfortable, and organized trip. </h4>
+        <h4><a href="index.php" class="btn">Back</a></h4>
     </div>
 </body>
 </html>

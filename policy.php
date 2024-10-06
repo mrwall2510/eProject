@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Policy - Bronx Luggage</title>
-    <link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="container">
@@ -30,7 +30,7 @@
             <p>We are committed to absolute confidentiality of customer personal information. Your information will not be shared with third parties without consent.</p>
         </div>
 
-        <p><a href="index.php" class="btn">Back</a></p>
+        <h4><a href="index.php" class="btn">Back</a></h4>
     </div>
 </body>
 </html>

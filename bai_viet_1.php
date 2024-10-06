@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tips - Bronx Luggage</title>
-    <link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="container">
@@ -42,8 +42,8 @@
                 <li>Price is also something we consider. As mentioned above, if you want a 'long-lasting' travel suitcase for every trip, you should consider investing in a good, quality suitcase from a major brand to minimize the possibility of damage and use it not only in the short term but also in the long term throughout the journey from travel, work or moving furniture.</li>
                 <li>If you rarely use it, and your needs are not high, you can buy it at a mid-range price and you won't regret it if it breaks or you want to change to a newer type. The warranty policy also needs to be prioritized, major travel suitcase brands all have product warranties, so buy from a reputable place with a good warranty policy such as 10 years, or even lifetime.</li>
             </ul></br>
-        <h3>Save these great travel suitcase tips above, and choose for yourself a "long-lasting" suitcase for every journey!</h3>
-        <p><a href="index.php" class="btn">Back</a></p>
+        <h4>Save these great travel suitcase tips above, and choose for yourself a "long-lasting" suitcase for every journey!</h4>
+        <h4><a href="index.php" class="btn">Back</a></h4>
     </div>
 </body>
 </html>
